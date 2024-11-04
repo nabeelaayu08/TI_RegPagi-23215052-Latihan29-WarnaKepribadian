@@ -47,8 +47,7 @@ public class WarnaKepribadian {
                 printInBox("3. Berani mengambil risiko dalam setiap langkah,");
                 printInBox("4. Menyukai tantangan,");
                 printInBox("5. Kurang sabar,");
-                printInBox("6. Dapat menahan marah namun jika sudah tahap puncak");
-                printInBox("   toleransi, kemarahannya akan sulit dikontrol,");
+                printInBox("6. Dapat menahan marah namun jika sudah tahap puncak toleransi, kemarahannya akan sulit dikontrol,");
                 printInBox("7. Memiliki energi kehangatan dan cinta.");
                 break;
                 
@@ -71,8 +70,8 @@ public class WarnaKepribadian {
                 printInBox("6. Tidak suka meremehkan kekurangan orang lain,");
                 printInBox("7. Loyal,");
                 printInBox("8. Hangat,");
-                printInBox("9. Meskipun karakternya optimis dan idealis,");
-                printInBox("   seringkali goyah dan tidak stabil.");
+                printInBox("9. Meskipun karakternya optimis dan idealis, seringkali goyah dan tidak stabil,");
+                printInBox("10. Cenderung penakut");
                 break;
                 
             case "biru":
@@ -89,12 +88,10 @@ public class WarnaKepribadian {
             case "ungu":
                 printInBox("1. Optimis,");
                 printInBox("2. Tidak pernah ragu,");
-                printInBox("3. Menurutnya pasangan yang ideal adalah yang memiliki");
-                printInBox("   mental yang kuat,");
+                printInBox("3. Menurutnya pasangan yang ideal adalah yang memiliki mental yang kuat,");
                 printInBox("4. Memiliki ambisi yang besar,");
                 printInBox("5. Memiliki empati yang besar,");
-                printInBox("6. Memiliki sisi misterius sebab seringkali menutupi");
-                printInBox("   perasaannya,");
+                printInBox("6. Memiliki sisi misterius sebab seringkali menutupi perasaannya,");
                 printInBox("7. Terkadang bersikap keras kepala dan angkuh.");
                 break;
                 
